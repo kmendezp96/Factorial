@@ -13,7 +13,7 @@ class Factorial{
       return 1;
     }
     int res=1;
-    for (int i=1;i<=a;i++){
+    for (int i = 1;i<=a;i++){
       res= res*i;
     }
     return res;
